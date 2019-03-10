@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/phillipmiller/GitHub/CPP14MultiThreadingExcersize/src/main.cpp
+iostream
+-
+thread
+-
+vector
+-
+random
+-
+chrono
+-
+

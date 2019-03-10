@@ -1,0 +1,3 @@
+/Users/phillipmiller/GitHub/CPP14MultiThreadingExcersize/CMakeFiles/rebuild_cache.dir
+/Users/phillipmiller/GitHub/CPP14MultiThreadingExcersize/CMakeFiles/edit_cache.dir
+/Users/phillipmiller/GitHub/CPP14MultiThreadingExcersize/CMakeFiles/MultiThreadExample.dir
